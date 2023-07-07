@@ -17,10 +17,10 @@ This API contains information about artists,albums and songs.
 
 ###Services Used
 
-1. ** S3( Simple Storage Service) **
-2. ** AWS Lambda **
-3. ** CloudWatch **
-4. ** Glue Crawler **
-5. ** Data Catalog **
-6. ** Amazon Athena **
+1. **S3( Simple Storage Service)**
+2. **AWS Lambda**
+3. **CloudWatch**
+4. **Glue Crawler**
+5. **Data Catalog**
+6. **Amazon Athena**
 
